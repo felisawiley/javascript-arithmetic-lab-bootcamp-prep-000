@@ -1,3 +1,3 @@
-var a, b 
+var 2, 7 
 
-function add(a,b)
+add(a,b)

@@ -19,4 +19,5 @@ number = 10
 add5()
 console.log(number)
 
-divide
+divideby3()
+console.log(number)
